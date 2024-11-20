@@ -8,3 +8,5 @@ while (minValue <= maxValue)
 
     minValue += stepValue;
 }
+
+//Выбрано while так как нет четких границ сколько раз должен выполняться цикл.
